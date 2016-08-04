@@ -1,0 +1,36 @@
+_repo: The-Garden-Party-and-Other-Stories_1429
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mansfield, Katherine
+    aliases:
+    - Murry, Kathleen Beauchamp
+    - Berry, Matilda
+    - Bowden, Kathleen
+    - Beauchamp, Kathleen M. (Kathleen Mansfield)
+    birthdate: 1888
+    deathdate: 1923
+    gutenberg_agent_id: '631'
+    url: http://www.gutenberg.org/2009/agents/631
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Mansfield
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, New Zealand'
+- !lcsh 'New Zealand -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: At the bay -- The garden party -- The daughters of the late colonel
+  -- Mr and Mrs Dove -- The young girl -- Life of Ma Parker -- Marriage a la mode
+  -- The voyage -- Miss Brill -- Her first ball -- The singing lesson -- The stranger
+  -- Bank holiday -- An ideal family -- The lady's maid.
+title: The Garden Party, and Other Stories
+url: http://www.gutenberg.org/ebooks/1429
